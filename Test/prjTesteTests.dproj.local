@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/06/17 23:50:00.000.473,=C:\Users\Joelaine\Desktop\Teste\Test\TestuntVCalculadora.pas</Transaction>
+    <Transaction>2018/06/17 23:50:01.000.893,=C:\Users\Joelaine\Desktop\Teste\untVCalculadora.pas</Transaction>
+    <Transaction>2018/06/17 23:57:43.000.938,C:\Users\Joelaine\Desktop\Teste\untCalculadora.dfm=C:\Users\Joelaine\Desktop\Teste\untVCalculadora.dfm</Transaction>
+    <Transaction>2018/06/17 23:57:43.000.938,C:\Users\Joelaine\Desktop\Teste\untCalculadora.pas=C:\Users\Joelaine\Desktop\Teste\untVCalculadora.pas</Transaction>
+    <Transaction>2018/06/18 00:24:29.803,C:\Users\Joelaine\Desktop\Teste\Test\TestuntCalculadora.pas=</Transaction>
+    <Transaction>2018/06/18 00:24:36.636,C:\Users\Joelaine\Desktop\Teste\untCalculadora.pas=</Transaction>
+    <Transaction>2018/06/18 00:37:36.463,=C:\Users\Joelaine\Desktop\Teste\Test\TestuntCalculadora.pas</Transaction>
+    <Transaction>2018/06/18 00:37:36.718,=C:\Users\Joelaine\Desktop\Teste\untCalculadora.pas</Transaction>
+  </Transactions>
+</BorlandProject>

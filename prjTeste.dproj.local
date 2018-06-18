@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/06/15 17:13:47.000.728,=C:\Users\Joelaine\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/15 18:10:40.000.130,C:\Users\Joelaine\Desktop\Teste\untVCalculadora.dfm=C:\Users\Joelaine\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/06/15 18:10:40.000.119,C:\Users\Joelaine\Desktop\Teste\untVCalculadora.pas=C:\Users\Joelaine\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/06/15 18:10:48.000.461,C:\Users\Joelaine\Desktop\Teste\prjCalculadora.dproj=C:\Users\Joelaine\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/06/17 16:53:01.000.514,=C:\Users\Joelaine\Desktop\Teste\Unit1.pas</Transaction>
+    <Transaction>2018/06/17 16:53:51.000.315,C:\Users\Joelaine\Desktop\Teste\Unit1.pas=C:\Users\Joelaine\Desktop\Teste\untFuncionario.pas</Transaction>
+    <Transaction>2018/06/17 16:53:51.000.315,C:\Users\Joelaine\Desktop\Teste\Unit1.dfm=C:\Users\Joelaine\Desktop\Teste\untFuncionario.dfm</Transaction>
+    <Transaction>2018/06/17 21:38:55.000.508,=C:\Users\Joelaine\Desktop\Teste\Unit1.pas</Transaction>
+    <Transaction>2018/06/17 21:39:08.000.814,C:\Users\Joelaine\Desktop\Teste\Unit1.pas=C:\Users\Joelaine\Desktop\Teste\untFuncoes.pas</Transaction>
+    <Transaction>2018/06/17 23:22:10.000.786,C:\Users\Joelaine\Desktop\Teste\prjTeste.dproj=C:\Users\Joelaine\Desktop\Teste\prjCalculadora.dproj</Transaction>
+    <Transaction>2018/06/17 23:23:59.000.479,=C:\Users\Joelaine\Desktop\Teste\Unit1.pas</Transaction>
+    <Transaction>2018/06/17 23:26:58.000.938,C:\Users\Joelaine\Desktop\Teste\untMenu.pas=C:\Users\Joelaine\Desktop\Teste\Unit1.pas</Transaction>
+    <Transaction>2018/06/17 23:26:58.000.939,C:\Users\Joelaine\Desktop\Teste\untMenu.dfm=C:\Users\Joelaine\Desktop\Teste\Unit1.dfm</Transaction>
+    <Transaction>2018/06/17 23:57:43.000.912,C:\Users\Joelaine\Desktop\Teste\untCalculadora.dfm=C:\Users\Joelaine\Desktop\Teste\untVCalculadora.dfm</Transaction>
+    <Transaction>2018/06/17 23:57:43.000.912,C:\Users\Joelaine\Desktop\Teste\untCalculadora.pas=C:\Users\Joelaine\Desktop\Teste\untVCalculadora.pas</Transaction>
+  </Transactions>
+</BorlandProject>
